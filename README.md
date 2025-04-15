@@ -22,7 +22,7 @@
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=i12hacku&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=i12hacku&theme=blueberry_duo"/>
-|---|---|
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i12hacku&layout=compact&theme=github_dark&langs_count=5"/>
 
 
