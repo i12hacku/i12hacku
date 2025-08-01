@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pulitha Tharuthma</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h1 align="center">👋 Hi, I'm Pulitha Tharuthma</h1>
+<h3 align="center">Full Stack Developer & IoT enthusiast from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=i12hacku&label=Profile%20views&color=0e75b6&style=flat" alt="i12hacku" /> </p>
 
 
-- 🔭 I’m currently working on **Web Project**
-
+- 💼 Currently @ DETZ Global Pvt Ltd
+- 🔧 I build smart systems by combining web development with hardware integration.
+- 🌐 Passionate about tech, automation, and meaningful user experiences.
 - 📫 How to reach me **pulithamohotti5392@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
