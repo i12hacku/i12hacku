@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=i12hacku&label=Profile%20views&color=0e75b6&style=flat" alt="i12hacku" /> </p>
 
 
-- 💼 Currently @ DETZ Global Pvt Ltd
+- 💼 Currently @ <span><b><a href="https://www.detzglobal.com/" target="_blank" rel="noopener">DETZ Global Pvt Ltd</a></b></span>
 - 🔧 I build smart systems by combining web development with hardware integration.
 - 🌐 Passionate about tech, automation, and meaningful user experiences.
 - 📫 How to reach me **pulithamohotti5392@gmail.com**
