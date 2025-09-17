@@ -20,45 +20,16 @@ I'm a passionate Full Stack Developer with expertise in building innovative solu
 
 ## 🛠️ Technical Stack
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+| **Category**             | **Technologies**                                                                 |
+|---------------------------|----------------------------------------------------------------------------------|
+| **Programming Languages** | ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png) ![Python](https://img.icons8.com/color/48/python.png) ![JavaScript](https://img.icons8.com/color/48/javascript.png) ![TypeScript](https://img.icons8.com/color/48/typescript.png) ![PHP](https://img.icons8.com/officel/40/php-logo.png) |
+| **Frontend Development**  | ![React](https://img.icons8.com/color/48/react-native.png) ![HTML5](https://img.icons8.com/color/48/html-5.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png) ![TailwindCSS](https://img.icons8.com/color/48/tailwindcss.png) |
+| **Backend Development**   | ![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Firebase](https://img.icons8.com/color/48/firebase.png) |
+| **Mobile Development**    | ![Android](https://img.icons8.com/color/48/android-os.png) ![React Native](https://img.icons8.com/officel/40/react.png) ![Flutter](https://img.icons8.com/color/48/flutter.png) |
+| **Database & Cloud**      | ![MySQL](https://img.icons8.com/color/48/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png) ![Azure](https://img.icons8.com/color/48/azure-1.png) ![Heroku](https://img.icons8.com/color/48/heroku.png) |
+| **IoT & Embedded**        | ![Arduino](https://img.icons8.com/color/48/arduino.png) ![Raspberry Pi](https://img.icons8.com/color/48/raspberry-pi.png) |
+| **Tools & Tech**          | ![Docker](https://img.icons8.com/color/48/docker.png) ![Git](https://img.icons8.com/color/48/git.png) ![Linux](https://img.icons8.com/color/48/linux.png) ![Postman](https://img.icons8.com/dusk/64/postman.png) ![Figma](https://img.icons8.com/color/48/figma.png) |
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### IoT & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
