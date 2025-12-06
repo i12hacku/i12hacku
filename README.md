@@ -26,7 +26,7 @@ I'm a passionate Full Stack Developer with expertise in building innovative solu
 | **Frontend Development**  | ![React](https://img.icons8.com/color/48/react-native.png) ![HTML5](https://img.icons8.com/color/48/html-5.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png) ![TailwindCSS](https://img.icons8.com/color/48/tailwindcss.png) |
 | **Backend Development**   | ![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Firebase](https://img.icons8.com/color/48/firebase.png) |
 | **Mobile Development**    | ![Android](https://img.icons8.com/color/48/android-os.png) ![React Native](https://img.icons8.com/officel/40/react.png) ![Flutter](https://img.icons8.com/color/48/flutter.png) |
-| **Database & Cloud**      | ![MySQL](https://img.icons8.com/color/48/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png) ![Azure](https://img.icons8.com/color/48/azure-1.png) ![Heroku](https://img.icons8.com/color/48/heroku.png) |
+| **Database & Cloud**      | ![MySQL](https://img.icons8.com/color/48/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png)  ![Heroku](https://img.icons8.com/color/48/heroku.png) |
 | **IoT & Embedded**        | ![Arduino](https://img.icons8.com/color/48/arduino.png) ![Raspberry Pi](https://img.icons8.com/color/48/raspberry-pi.png) |
 | **Tools & Tech**          | ![Docker](https://img.icons8.com/color/48/docker.png) ![Git](https://img.icons8.com/color/48/git.png) ![Linux](https://img.icons8.com/color/48/linux.png) ![Postman](https://img.icons8.com/dusk/64/postman.png) ![Figma](https://img.icons8.com/color/48/figma.png) |
 
