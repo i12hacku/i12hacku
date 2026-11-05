@@ -1,83 +1,119 @@
-<h1 align="center">👋 Hi, I'm Pulitha Mohotti</h1>
-<h3 align="center">Full Stack Developer & IoT enthusiast from Sri Lanka</h3>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pulitha%20Mohotti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Freelance%20Full%20Stack%20Developer%20%7C%20IoT%20and%20Embedded&descAlignY=56&descSize=18" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=i12hacku&label=Profile%20views&color=0e75b6&style=flat" alt="i12hacku" />
-</p>
+<div align="center">
 
----
+<!-- Typing animation -->
+<a href="https://github.com/i12hacku">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Freelance+Full+Stack+Developer;Web+%E2%80%A2+Mobile+%E2%80%A2+IoT+Solutions;Turning+ideas+into+working+products;Open+for+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
+<br>
 
-I'm a passionate Full Stack Developer with expertise in building innovative solutions that bridge the gap between web technologies and hardware integration. My focus is on creating smart systems, automation tools, and meaningful user experiences that solve real-world problems.
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulithamohotti5392@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulitha-mohotti-8aaa4533a)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/z_hacker188)
 
-- 💼 **Currently:** Full Stack Developer at [DETZ Global Pvt Ltd](https://www.detzglobal.com/)
-- 🔧 **Specialization:** Full-stack development and IoT and hardware integration
-- 🌱 **Interests:** Tech innovation, automation, embedded systems, and cloud computing
-- 📫 **Contact:** pulithamohotti5392@gmail.com
+![Profile views](https://komarev.com/ghpvc/?username=i12hacku&label=Profile%20views&color=38bdf8&style=flat-square)
 
----
-
-## 🛠️ Technical Stack
-
-| **Category**             | **Technologies**                                                                 |
-|---------------------------|----------------------------------------------------------------------------------|
-| **Programming Languages** | ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png) ![Python](https://img.icons8.com/color/48/python.png) ![JavaScript](https://img.icons8.com/color/48/javascript.png) ![TypeScript](https://img.icons8.com/color/48/typescript.png) ![PHP](https://img.icons8.com/officel/40/php-logo.png) |
-| **Frontend Development**  | ![React](https://img.icons8.com/color/48/react-native.png) ![HTML5](https://img.icons8.com/color/48/html-5.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png) ![TailwindCSS](https://img.icons8.com/color/48/tailwindcss.png) |
-| **Backend Development**   | ![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Firebase](https://img.icons8.com/color/48/firebase.png) |
-| **Mobile Development**    | ![Android](https://img.icons8.com/color/48/android-os.png) ![React Native](https://img.icons8.com/officel/40/react.png) ![Flutter](https://img.icons8.com/color/48/flutter.png) |
-| **Database & Cloud**      | ![MySQL](https://img.icons8.com/color/48/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png)  ![Heroku](https://img.icons8.com/color/48/heroku.png) |
-| **IoT & Embedded**        | ![Arduino](https://img.icons8.com/color/48/arduino.png) ![Raspberry Pi](https://img.icons8.com/color/48/raspberry-pi.png) |
-| **Tools & Tech**          | ![Docker](https://img.icons8.com/color/48/docker.png) ![Git](https://img.icons8.com/color/48/git.png) ![Linux](https://img.icons8.com/color/48/linux.png) ![Postman](https://img.icons8.com/dusk/64/postman.png) ![Figma](https://img.icons8.com/color/48/figma.png) |
-
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i12hacku&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i12hacku&theme=blueberry_duo" alt="GitHub Streak" />
-</p>
+I'm a **freelance full stack developer** from Sri Lanka. I work with clients to design, build, and ship products from idea to deployment. My work sits where web technologies meet hardware: smart systems, automation tools, and clean user experiences that solve real problems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i12hacku&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i12hacku&row=2&column=6&margin-w=20&margin-h=20&theme=darkhub" alt="GitHub Trophies" />
-</p>
+```js
+const pulitha = {
+  role:       "Freelance Full Stack Developer",
+  location:   "Sri Lanka 🇱🇰",
+  focus:      ["Full-Stack Web", "Mobile Apps", "IoT & Hardware Integration"],
+  interests:  ["Automation", "Embedded Systems", "Cloud Computing"],
+  available:  true,
+  contact:    "pulithamohotti5392@gmail.com",
+};
+```
 
 ---
 
-## 🤝 Connect With Me
+## ⚡ What I Offer
 
-<p align="center">
-  <a href="https://twitter.com/z_hacker188" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/pulitha-mohotti-8aaa4533a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pulithamohotti5392@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+| Service | Details |
+|---|---|
+| 🌐 **Web Applications** | Responsive front ends and scalable back ends with React, Node.js, and Firebase |
+| 📱 **Mobile Apps** | Cross-platform apps with React Native and Flutter |
+| 📡 **IoT Solutions** | Sensor networks, device dashboards, and hardware–cloud integration |
+| ⚙️ **Automation** | Scripts, tools, and workflows that save time and reduce manual work |
 
-<p align="center">
-  <a href="https://twitter.com/z_hacker188" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/z_hacker188?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,php" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+
+**Backend & Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,androidstudio,flutter" />
+
+**Databases & Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,heroku" /> <img height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" />
+
+**IoT & Embedded**
+<br>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman,figma" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=i12hacku&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i12hacku&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i12hacku&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+  <br><br>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=i12hacku&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=i12hacku&row=1&column=6&margin-w=15&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="github-contribution-grid-snake.svg" alt="contribution snake" />
+
+## 🤝 Let's Work Together
+
+Have a project in mind? I'm available for freelance work.
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-38BDF8?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:pulithamohotti5392@gmail.com)
+
+<br>
+
+<img src="github-contribution-grid-snake.svg" alt="Contribution snake" />
+
 </div>
 
----
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
