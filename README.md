@@ -80,23 +80,21 @@ const pulitha = {
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=i12hacku&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i12hacku&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i12hacku&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-  <br><br>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=i12hacku&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+| Project | What it does | Links |
+|---|---|---|
+| **TRACEON** | See your public IP, where it geolocates, who routes it, and whether your browser leaks it. Runs entirely in the browser. | [Live](https://traceonip.web.app) · [Code](https://github.com/i12hacku/TRACEON) |
+| **DOM Sentinel** | Chrome DevTools extension that finds leaked secrets, weak security headers, insecure cookies and DOM-XSS hints on any page. | [Code](https://github.com/i12hacku/DOM-Sentinel) |
+| **StackLens** | Browser extension that detects 280+ technologies a website is built with, with evidence and an exportable report. | [Code](https://github.com/i12hacku/StackLens) |
+| **Dambulu Furniture House** | Responsive furniture catalogue and admin site built for a client business. | [Live](https://dambulufurniturehome.web.app/) · [Code](https://github.com/i12hacku/Dambulu_Furniture_House) |
 
 ---
 
-## 🏆 Trophies
+## 📊 GitHub Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i12hacku&row=1&column=6&margin-w=15&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i12hacku&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -111,7 +109,11 @@ Have a project in mind? I'm available for freelance work.
 
 <br>
 
-<img src="github-contribution-grid-snake.svg" alt="Contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i12hacku/i12hacku/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i12hacku/i12hacku/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/i12hacku/i12hacku/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
